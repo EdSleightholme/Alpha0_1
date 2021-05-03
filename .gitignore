@@ -45,6 +45,9 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Blender backup files
+*.blend1
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
